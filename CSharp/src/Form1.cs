@@ -14,7 +14,7 @@ namespace example120
 {
     public partial class Form1 : Form
     {
-        string Conn = "Server=158.247.211.247;Database=panel;Uid=jinhyo;Pwd=;";
+        string Conn = "Server=localhost;Database=dht11;Uid=root;Pwd=;";
 
         public Form1()
         {

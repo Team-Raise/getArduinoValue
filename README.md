@@ -1,5 +1,6 @@
 # Capstone-Project Team. Raise (2022, GBSW)
-
+## 웹(Front-end) 깃허브 repository link<br>
+https://github.com/jinhyo-dev/2022GBSW-Capstone-Project
 ## 1.프로젝트 개요
 ### 1-1. 프로젝트 주제
     'Smart Farm'
@@ -41,9 +42,9 @@
 
 ## 8. 결과 및 발표 자료
 #### 깃허브 저장소 주소
-    https://github.com/jinhyo-dev/2022GBSW-Capstone-Project
+https://github.com/jinhyo-dev/2022GBSW-Capstone-Project
 #### 실행 주소(웹)
-    https://capstone.jinhyo.dev
+https://capstone.jinhyo.dev
 #### 프로젝트 소개 영상 / 팀 소개 영상
 #### 계획 발표 자료
 #### 중간 발표 자료
