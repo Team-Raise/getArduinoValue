@@ -1,0 +1,1 @@
+insert into dht11(humi,temp,hic,date) values(" NAN"," NAN"," NAN","2022-06-24 오후 4:45:36")
