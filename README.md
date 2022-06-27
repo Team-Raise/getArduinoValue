@@ -6,15 +6,15 @@
 #### 1-3. 수행 목표
 
 ## 2. 팀 소개
-|  구분  |  이름   |                                                                      사진                                                                      |            Mail             |              Github              |              role               |
-|:----:|:-----:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:--------------------------------:|:-------------------------------:|
-|  팀장  |  이준호  |  <img src="https://user-images.githubusercontent.com/86733620/175867981-4b9bdd15-631e-4cf3-a153-627fb25bc62e.jpg" width="100" height="128">  |    glwnsgh123@icloud.com    | https://github.com/junho12-tech  | |
-|  팀원  |  김진효  | <img src="https://user-images.githubusercontent.com/86733620/175867409-88daa0dd-5022-42ce-b322-2b215ce2a08e.jpg" width="100" height="128"/>  |       admin@jinhyo.dev      |  https://github.com/jinhyo-dev   | 웹 디자인 및 Front-end & Back-end 개발 |
-|  팀원  |  이승우  |  <img src="https://user-images.githubusercontent.com/86733620/175868471-a83923cb-89b0-4d05-9c5f-ec384f705b30.jpg" width="100" height="128">  |   po01033171881@gmail.com   | https://github.com/leeseowoo0810 | |
-|  팀원  |  권기찬  |  <img src="https://user-images.githubusercontent.com/86733620/175868748-b70f6b61-8653-4f3f-968e-2b4ef760efb7.JPG" width="100" height="128">  |    gichan0723@gmail.com     | none | |
+|  구분  |      이름      |                                                                     사진                                                                      |          Mail           |              Github              |              role               |
+|:----:|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|:--------------------------------:|:-------------------------------:|
+|  팀장  |     이준호      | <img src="https://user-images.githubusercontent.com/86733620/175867981-4b9bdd15-631e-4cf3-a153-627fb25bc62e.jpg" width="200" height="128">  |  glwnsgh123@icloud.com  | https://github.com/junho12-tech  | |
+|  팀원  |     김진효      | <img src="https://user-images.githubusercontent.com/86733620/175867409-88daa0dd-5022-42ce-b322-2b215ce2a08e.jpg" width="200" height="128"/> |    admin@jinhyo.dev     |  https://github.com/jinhyo-dev   | 웹 디자인 및 Front-end & Back-end 개발 |
+|  팀원  |     이승우      | <img src="https://user-images.githubusercontent.com/86733620/175868471-a83923cb-89b0-4d05-9c5f-ec384f705b30.jpg" width="200" height="128">  | po01033171881@gmail.com | https://github.com/leeseowoo0810 | |
+|  팀원  |     권기찬      | <img src="https://user-images.githubusercontent.com/86733620/175868748-b70f6b61-8653-4f3f-968e-2b4ef760efb7.JPG" width="200" height="128">  |  gichan0723@gmail.com   | none | |
 ## 3. 사용기술
 #### 3-1. 개발에 사용한 기술
-#### 3-2. 개발에 소요된 물품 및 준비물
+#### 3-2. 개발에 소요된 물품 및
 
 ## 4. 수행 추진 일정
 
