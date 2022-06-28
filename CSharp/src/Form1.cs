@@ -65,7 +65,7 @@ namespace example120
                 conn.Open();
                 try
                 {
-                    string sql = "insert into dht11(humi,temp,hic,date) values(\"" + data[0] + "\",\"" + data[1] + "\",\"" + data[2] + "\",\"" + date + "\")";
+                    string sql = "insert into dht11(humidity,temperature,water_level,ph,date) values(\"" + data[0] + "\",\"" + data[1] + "\",\"" + data[2] + "\",\"" + data[3] +  "\",\"" + date + "\")";
                     File.WriteAllText("sql.txt",sql);
                     MySqlCommand msc = new MySqlCommand(sql, conn);
                     msc.ExecuteNonQuery();
