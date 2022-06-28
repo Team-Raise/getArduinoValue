@@ -93,6 +93,13 @@ https://github.com/jinhyo-dev/2022GBSW-Capstone-Project
 https://capstone.jinhyo.dev
 
 #### 프로젝트 소개 영상 / 팀 소개 영상
+- 프로젝트 소개 영상
+- 팀 소개 영상
+<video width="100%" height="100%" controls="controls">
+  <source src="https://user-images.githubusercontent.com/86733620/176171141-95446053-9749-4e68-9648-9e6f3d7decbe.MOV" type="video/mp4"></video>
+
+
+
 
 #### 계획 발표 자료
 
