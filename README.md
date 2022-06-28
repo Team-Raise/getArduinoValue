@@ -94,6 +94,7 @@ https://capstone.jinhyo.dev
 
 #### 프로젝트 소개 영상 / 팀 소개 영상
 - 프로젝트 소개 영상
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/iDlOacAA918?list=RDiDlOacAA918" title="BIG Naughty (서동현) - 낭만교향곡 (Feat. CHANGMO, 박재범) [낭만]ㅣLyrics/가사" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - 팀 소개 영상
 <video width="100%" height="100%" controls="controls">
   <source src="https://user-images.githubusercontent.com/86733620/176171141-95446053-9749-4e68-9648-9e6f3d7decbe.MOV" type="video/mp4"></video>
