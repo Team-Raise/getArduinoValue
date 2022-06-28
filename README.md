@@ -51,7 +51,7 @@ https://github.com/jinhyo-dev/2022GBSW-Capstone-Project
 ## 5. 프로젝트 상세 소개
 
 #### 5-1. 레이아웃 세부 설명
-- 결과 페이지 
+- 결과 페이지 <br>
 ![Firefox Developer Edition (Private Browsing) 2022-06-28 20-12-48](https://user-images.githubusercontent.com/86733620/176166686-f8b7908b-3034-43d4-8855-6048edd84fc9.gif)
 > 위에서 받은 데이터들을 Next.js 프레임 워크를 사용하여 웹으로 사용자가 보기 쉽도록 출력하였습니다. 거기에 더불어 사용자가 식울을 어떻게 재배 할 수 있는지 '식물도감' 페이지를 만들어 모두가 쉽고 간단하게 스마트 팜을 이용하였으면 좋겠다는 생각으로 위에 같은 페이지를 제작하게 되었습니다. 
 #### 5-2. 데이터베이스 구조
