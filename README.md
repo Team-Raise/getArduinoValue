@@ -95,7 +95,11 @@ https://capstone.jinhyo.dev
 #### 프로젝트 소개 영상 / 팀 소개 영상
 - 프로젝트 소개 영상
 - 팀 소개 영상
-https://user-images.githubusercontent.com/86733620/176339158-7542e0be-bbff-4cb4-baa4-0bd9a1ce9b99.mp4
+
+
+
+https://user-images.githubusercontent.com/86733620/176339438-6c445cf6-12a8-4b81-960e-dd567aba7634.mp4
+
 
 #### 계획 발표 자료
 
