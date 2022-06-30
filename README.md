@@ -60,7 +60,7 @@ https://github.com/jinhyo-dev/Capstone-Project-Front-end
 
 #### 5-1. 레이아웃 세부 설명
 - 결과 페이지 <br>
-![Firefox Developer Edition (Private Browsing) 2022-06-28 20-12-48](https://user-images.githubusercontent.com/86733620/176166686-f8b7908b-3034-43d4-8855-6048edd84fc9.gif)
+![Capstone-page](https://user-images.githubusercontent.com/86733620/176645512-c7d86f75-0834-4f2d-b3f7-a55ce9460057.gif)
 > 위에서 받은 데이터들을 Next.js 프레임 워크를 사용하여 웹으로 사용자가 보기 쉽도록 출력하였습니다. 웹 페이지는 1분마다 자동으로 새로고침되며 최근 데이터를 불러옵니다. 사용자는 새로운 데이터가 들어왔는지 새로고침 버튼을 통해 최근 데이터를 불러 올 수 있습니다. 그리고 데이터 지우기 버튼을 누르면 SQL 명령어 'TRUNCATE'를 실행시켜 데이테베이스 필드를 모두 초기화하는 기능을 만들었습니다. 거기에 더불어 사용자가 식울을 어떻게 재배 할 수 있는지 '식물도감' 페이지를 만들어 모두가 쉽고 간단하게 스마트 팜을 이용하였으면 좋겠다는 생각으로 위에 같은 페이지를 제작하게 되었습니다.
 #### 5-2. 데이터베이스 구조
 
