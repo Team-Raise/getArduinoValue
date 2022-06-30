@@ -134,9 +134,10 @@ https://capstone.jinhyo.dev
 
 #### 프로젝트 소개 영상 / 팀 소개 영상
 - 프로젝트 소개 영상
+
+[![Capstone-Project-Intro]https://img.youtube.com/vi/AhbgXa4Mwdc/0.jpg](https://www.youtube.com/watch?v=AhbgXa4Mwdc)
+
 - 팀 소개 영상
-
-
 
 https://user-images.githubusercontent.com/86733620/176339438-6c445cf6-12a8-4b81-960e-dd567aba7634.mp4
 
